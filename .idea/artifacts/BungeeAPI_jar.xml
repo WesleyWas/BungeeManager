@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeAPI:jar">
+    <output-path>D:/Développement/Développement/OniziacReborn/BungeeTest/plugins</output-path>
+    <root id="archive" name="BungeeAPI.jar">
+      <element id="module-output" name="BungeeAPI" />
+    </root>
+  </artifact>
+</component>
